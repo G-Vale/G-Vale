@@ -1,5 +1,5 @@
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Opa! Tudo Bem? atualmente sou programador Front-End Junior, com o objetivo de se torna Full Stack Pleno.
 <div align="center">
   <a href="https://github.com/g-vale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-vale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
